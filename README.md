@@ -1,11 +1,11 @@
 # 💫 About Me:
 A results-driven consultant with 5+ years of experience in cloud strategy, software development, and artificial intelligence. I specialize in designing scalable cloud architectures, optimizing costs, and developing AI-driven solutions. Key achievements include:
 
--Advised 15+ clients across banking, government, and enterprise sectors on cloud transformation and optimization.
--Certified in major cloud platforms (AWS, GCP, OCI) and led as a Learning Coordinator for AWS certification initiatives.
--Designed and deployed secure, high-performance cloud infrastructures, enhancing scalability and compliance.
--Good understanding of AI and ML models with expertise in Python, PyTorch, and deep learning frameworks.
--Built web-based applications and enterprise solutions, integrating cloud-native capabilities.
+- Advised 15+ clients across banking, government, and enterprise sectors on cloud transformation and optimization.
+- Certified in major cloud platforms (AWS, GCP, OCI) and led as a Learning Coordinator for AWS certification initiatives.
+- Designed and deployed secure, high-performance cloud infrastructures, enhancing scalability and compliance.
+- Good understanding of AI and ML models with expertise in Python, PyTorch, and deep learning frameworks.
+- Built web-based applications and enterprise solutions, integrating cloud-native capabilities.
 
 Currently pursuing an MSc in Advanced Computer Science (Artificial Intelligence) at The University of Manchester, I am passionate about bridging AI, cloud, and software development to drive digital innovation.
 
